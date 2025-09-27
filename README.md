@@ -1,6 +1,7 @@
 # Hi, I'm Lei 👋
 
 **All projects** in this account are personal projects.
+
 **Full-stack developer** with a passion for turning ideas into functional applications.  
 **GIS specialist** exploring the stories hidden in spatial data and automating GIS workflows.  
 **Problem-solver at heart**, whether it’s math, coding algorithms, or fixing broken door hedges.
