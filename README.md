@@ -49,5 +49,5 @@ Unlike many programmers who started coding in childhood, I took the long way aro
 ---
 
 Feel free to connect with me!
-- [LinkedIn](linkedin.com/in/lei-ding-92117b1b9)
+- [LinkedIn](https://www.linkedin.com/in/lei-ding-92117b1b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B3PmH49pRuiEayZ4P39dNw%3D%3D)
 - [Personal Website](https://9700km.vercel.app/members/lei-ding)
